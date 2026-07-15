@@ -87,7 +87,7 @@ Learning    : LLMs, AI Agents, Offensive Security
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pulkitkh&show_icons=true&theme=github_dark&hide_border=true"/>
+<!--img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pulkitkh&show_icons=true&theme=github_dark&hide_border=true"/-->
 
 <img width="48%" src="https://streak-stats.demolab.com?user=Pulkitkh&theme=github-dark-blue&hide_border=true"/>
 
@@ -95,7 +95,7 @@ Learning    : LLMs, AI Agents, Offensive Security
 
 <p align="center">
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkitkh&layout=compact&theme=github_dark&hide_border=true"/>
+<!--img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pulkitkh&layout=compact&theme=github_dark&hide_border=true"/-->
 
 </p>
 
