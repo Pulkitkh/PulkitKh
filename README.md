@@ -1,12 +1,5 @@
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ad5d6e91-bdba-4f0b-b69b-db06ac26b8c9" />
 
-<!-- ========================================================= -->
-<!--                        HEADER                              -->
-<!-- ========================================================= -->
-
-<p align="center">
-  <img src="assets/banner.png" width="100%" alt="Pulkit Terminal Banner">
-</p>
 
 <h1 align="center">
   Hi 👋 I'm Pulkit Khemka
@@ -106,56 +99,9 @@ Learning    : LLMs, AI Agents, Offensive Security
 
 </p>
 
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pulkitkh&theme=github-dark&hide_border=true"/>
-
-</p>
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Pulkitkh/Pulkitkh/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pulkitkh&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:pulkitkhemka07@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/Pulkitkh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<!-- Add LinkedIn -->
-<!-- Add Portfolio -->
-
-</p>
-
----
 
 # 💭 Quote
 
